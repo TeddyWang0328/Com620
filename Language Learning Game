@@ -39,7 +39,7 @@ max-width:40%;
 max-height:40%;
 }
 &lt;/style&gt;
-&lt;img src=&quot;https://pic.pngsucai.com/00/43/31/ff491916916e10eb.jpg&quot;&gt;
+&lt;img src=&quot;https://pic.pngsucai.com/00/43/31/ff491916916e10eb.jpg&quot; width=&quot;500&quot; height=&quot;500&quot; alt=&quot;Two foxes&quot;&gt;
 &lt;/div&gt;
 
 </tw-passagedata><tw-passagedata pid="3" name="&quot;decide1&quot;" tags="" position="956,507" size="100,100">(set:$funStyle to (text-style:&quot;fade-in-out&quot;))
@@ -136,7 +136,8 @@ max-width:100%;
 max-height:100%;
 }
 &lt;/style&gt;
-&lt;img src=&quot;https://s2.best-wallpaper.net/wallpaper/2880x1800/1809/Your-Name-meteor-boy-silhouette-fence-bike_2880x1800.jpg&quot;&gt;
+
+&lt;img src=&quot;https://s2.best-wallpaper.net/wallpaper/2880x1800/1809/Your-Name-meteor-boy-silhouette-fence-bike_2880x1800.jpg&quot; width=&quot;1280&quot; height=&quot;720&quot; alt=&quot;Two foxes&quot;&gt;
 &lt;/div&gt;
 
 (set: $blu to (text-style: &quot;blurrier&quot;))
